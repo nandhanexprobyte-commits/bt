@@ -89,9 +89,6 @@ export default function Footer() {
     className="h-17 w-auto object-contain"
   />
 </a>
-                <span className="text-[8px] tracking-[0.2em] text-stone-400 uppercase">
-                  {STORE_INFO.tagline}
-                </span>
               </div>
               <p className="text-stone-400 font-light leading-relaxed max-w-sm">
                 India&apos;s preferred online destination for handcrafted designer sarees, festive salwar suits, and bridal lehengas directly from Surat artisans.
